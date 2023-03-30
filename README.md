@@ -1,2 +1,2 @@
 # technophi
-my codes
+my codes to automate tasks
